@@ -1,3 +1,7 @@
+'''
+Author: Tom Mathew
+Date: 26 March, 2025
+'''
 import torch.nn as nn
 import torch
 import torch.optim as optim
